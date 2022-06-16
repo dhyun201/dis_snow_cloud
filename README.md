@@ -1,4 +1,4 @@
-# dis_snow_cloud
+# discrimination between snow and cloud
 Comparing snow/cloud discrimination from machine learning and deep neural network using geostationary satellite data (GK-2A/AMI)
 
 Due to the size of the data, the data used in this study and the generated data are all shared at the link below.
